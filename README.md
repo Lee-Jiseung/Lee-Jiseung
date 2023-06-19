@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Lee-Jiseung/Lee-Jiseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](./github-header-image.png)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-Jiseung&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Jiseung&langs_count=5&layout=compact&hide_border=true" align="center" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hlife0" />
+</div>
